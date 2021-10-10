@@ -969,14 +969,14 @@ left: 0%;
 
 	.project .title{
 		font-size: 30px;
-
 	}
 	
 	.project .title::after{
 	
-	bottom: -10px;
-	padding: 2px;
-	font-size: 20px;
+	padding: 1px;
+	bottom: -7px;
+	padding: 0px;
+	font-size: 15px;
 
 }
 
