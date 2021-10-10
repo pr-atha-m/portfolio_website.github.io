@@ -966,12 +966,17 @@ left: 0%;
 
 
 @media (max-width: 500px){
+
+	.project .title{
+		font-size: 30px;
+
+	}
 	
 	.project .title::after{
 	
 	bottom: -10px;
 	padding: 2px;
-	font-size: 15px;
+	font-size: 20px;
 
 }
 
@@ -979,11 +984,6 @@ left: 0%;
 	text-align: center;
 }
 
-.contact .social-icons li a {
-	margin-left: 2px;
-	padding: 6px;
-	
-}
 
 	 
  .home .home-content .text-2{
